@@ -5,7 +5,7 @@
 
 ## Description
 
-A Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
+A Node.js command-line application that incorporates information provided about a team to generate an HTML webpage. The webpage generated displays summaries about each team member.
 
 ## Table of Contents
 
